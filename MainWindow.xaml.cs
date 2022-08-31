@@ -24,5 +24,6 @@ namespace HomeWork_10
         {
             InitializeComponent();
         }
+
     }
 }
