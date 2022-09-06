@@ -25,5 +25,9 @@ namespace HomeWork_10
             InitializeComponent();
         }
 
+        private void btnMsgClick(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
